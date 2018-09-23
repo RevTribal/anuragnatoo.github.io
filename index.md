@@ -1,6 +1,6 @@
 # Welcome 
 ### I'm Anurag Natoo 
-
+![My picture](me.jpg)
 ## About Me 
 CS Undergrad , Front-end developer
 
