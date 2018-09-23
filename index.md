@@ -1,6 +1,6 @@
 # Welcome 
 ### I'm Anurag Natoo 
-<img src="me.jpg" alt="My picture" width=30% >
+<img src="me.jpg" alt="My picture" width=30%/>
 
 
 ## About Me 
