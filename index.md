@@ -1,6 +1,8 @@
 # Welcome 
 ### I'm Anurag Natoo 
-![My picture](me.jpg)
+<img src="me.jpg" alt="My picture" width=30% >
+
+
 ## About Me 
 CS Undergrad , Front-end developer
 
