@@ -1,5 +1,6 @@
 # Welcome 
 ### I'm Anurag Natoo 
+<img src="https://github.com/anuragnatoo/anuragnatoo.github.io/blob/master/me.jpg?raw=true" width="100">
 
 
 ## About Me 
