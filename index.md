@@ -9,7 +9,7 @@ CS Undergrad , Front-end developer
 I was born and brought up in Hyderabad.
 I studied from first grade to tenth grade in The Mother's Integral School , Hyderabad.
 I completed my 11th and 12th grade in Sri Chaitanya Jr. Kalasala,DD Colony Hyderabad.
-After securing a good rank in JEE Mains 2017 , currently I'm a Computer Science Student at **[IIITDM Kancheepuram]**(iiitdm.ac.in).
+After securing a good rank in JEE Mains 2017 , currently I'm a Computer Science Student at **[IIITDM Kancheepuram]**(https://iiitdm.ac.in).
 
 I'm a Sophomore learning and implementing a lot of stuff. Currently I'm working as a 
 Front-end Developer at _**[Digital Media Team, IIITDM Kancheepuram]**_(https://github.com/DMT-IIITDM).
